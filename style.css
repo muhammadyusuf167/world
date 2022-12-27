@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'mortal-kombat';
+    src: url('../rgba/mortal-kombat/MK4.TTF');
+}
+
+ h1 {
+    font-family: 'mortal-kombat', sans-serif;
+
+ }
